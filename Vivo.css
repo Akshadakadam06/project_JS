@@ -1,0 +1,363 @@
+.main{
+   background-color:white; 
+}
+.d1{
+    width: 100%;
+    left: 50px;
+    
+}
+.Newdiv{
+    height: 100%;
+        width: 100%;
+        background-color: rgb(30, 30, 61);
+        margin-top: -37px;
+        
+}
+
+.h1{
+     
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 10px;
+}
+.deligth{
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    word-spacing: 10px;
+    margin-bottom: -40px;
+}
+.ultra2{
+    position: absolute;
+    color: white;
+    font-size: x-large;
+    margin-left: 800px;
+   margin-top: -50px;
+}
+.ultra3{
+    position: absolute;
+    color: white;
+    font-size: x-large;
+    margin-left: 1200px;
+   margin-top: -50px;
+}
+.Newdiv span{
+   
+    color: white;
+    margin-left: 800px;
+     margin-top: 80px;
+    font-size: x-large;
+    
+
+}
+
+.img123{
+    margin-left: 20px;
+    transition: 1.7s;
+    
+}
+.img234{
+    margin-left: 30px;
+    transition: 1.7s;
+}
+.img1{
+    transition: 1.7s;
+}
+.img345{
+    transform: 1.7;
+}
+.img1:hover, .img123:hover, .img234:hover, .img345:hover{
+    transform: scale(1.07);
+}
+.ultra{
+    color: white;
+    font-size: x-large;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.top{
+    color: white;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+.dh1{
+    position: absolute;
+    margin-left: 150px;
+    top: 200px;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    word-spacing: 40px;
+    letter-spacing: 5px;
+    font-size: xx-large;
+    
+}
+.p1{
+    margin-right: 300;
+    
+}
+.b1{
+        color: white;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    background-color: blue;
+    font-size: large;
+    margin-left: 1350px;
+    margin-top: 20px;
+    border: none;
+}
+.para{
+        margin-left: 900px;
+        font-size: x-large;
+        word-spacing: 40px;
+}
+.d2{
+    position: relative;
+    background-color:black;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 60px;
+    margin-top: 0px;
+}
+.div10{
+        font-family: Arial, Helvetica, sans-serif;
+}
+.h3{
+    margin-left: 70px;
+   
+    color: white;
+}
+.h4{
+        color: white;
+}
+.h5{
+        color: white;
+}
+.h6{
+        color: white;
+}
+.p2{
+   color: lightslategray;
+}
+.p3{
+        color: lightslategray;
+}
+.p4{
+        color: lightslategray;
+}
+.p5{
+        color: lightslategray;
+}
+.p10{
+    margin-top: 150px;
+    font-size: medium;
+    margin-left: 80px;
+}
+.p10:hover{
+    color: gray;
+}
+.moment{
+    margin-left: 70px;
+}
+.Vi{
+    color: white;
+    margin-left: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.vi2{
+        position: absolute;
+    margin-left: 250px;
+    margin-top: -520px;
+    color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.vi4{
+        position: absolute;
+        margin-left: 670px;
+        margin-top: -520px;
+        color: lightslategray;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+    
+.vi3{
+        position: absolute;
+        margin-left: 450px;
+        margin-top: -520px;
+        color:lightslategray;    
+        font-family: Arial, Helvetica, sans-serif; 
+}
+.dicon{
+        position: absolute;
+        font-size: larger;
+        margin-left: 1200px;
+        margin-top: -640px;
+        color: white;    
+        font-family: Arial, Helvetica, sans-serif;
+}
+.dmig{
+    position: absolute;
+    margin-left: 150px;
+    top: 200px;
+}
+.bounce-top {
+	-webkit-animation: bounce-top 2s infinite both;
+	        animation: bounce-top 2s infinite both;
+}
+.time{
+    font-size: small;
+}
+.navbar{
+    height: 80px;
+    width: 100%;
+   background-color: white;
+   /* position: fixed; */
+     /* z-index: -8; */
+    border-bottom: 2px solid black;
+}
+.logo{
+    position: absolute;
+    height: 60px;
+    width: 180px;
+    top: 15px;
+    left: 50px;
+    /* border: 2px solid black; */
+}
+.para:hover{
+    color:lightblue;
+}
+.b1:hover{
+    background-color: lightblue;
+}
+.ul1{
+    position: absolute;
+    bottom: 610px ;
+    left: 900px;
+    font-size: x-large;
+}
+.ul2{
+    position: absolute;
+    bottom: 610px ;
+    left: 1050px;
+    font-size: x-large;
+}
+.ul3{
+    position: absolute;
+    bottom: 610px ;
+    left: 1200px;
+    font-size: x-large;
+}
+.ul1:hover, .ul2:hover, .ul3:hover{
+    color:lightblue;
+}
+.nadiv{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    margin-top: -20px;
+}
+.img1:hover , .img123:hover, .img234:hover, .img345:hover{
+    transition-duration: 3s;
+}
+.nmenu{
+    display: flex;
+    /* border: 2px solid black; */
+}
+.nm10{
+    position: absolute;
+    top: 28px;
+    left: 1400px;
+    /* z-index: -8; */
+}
+.nm9{
+    position: absolute;
+    top: 28px;
+    left: 1325px;
+    /* z-index: -8; */
+}
+.nm8{
+    position: absolute;
+    top: 30px;
+    left: 1200px;
+}
+.nm7{
+    position: absolute;
+    top: 30px;
+    left: 1068px;
+}
+.nm6{
+    position: absolute;
+    top: 30px;
+    left: 925px;
+}
+.nm5{
+    position: absolute;
+    top: 30px;
+    left: 830px;
+}
+.nm4{
+    position: absolute;
+    top: 30px;
+    left: 710px;
+}
+.nm3{
+    position: absolute;
+    top: 30px;
+    left: 620px;
+}
+.nm2{
+    position: absolute;
+    top: 30px;
+    left: 515px;
+}
+.nm1{
+    position: absolute;
+    top: 30px;
+    left: 435px;
+}
+.nm1, .nm2, .nm3, .nm4, .nm5, .nm6, .nm7, .nm8{
+    /* font-weight: bold; */
+    color: black;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 0.5s;
+}
+.nm1:hover, .nm2:hover, .nm3:hover, .nm4:hover, .nm5:hover, .nm6:hover, .nm7:hover, .nm8:hover{
+    color: #0926e0;
+}
+.tracking-in-expand {
+	-webkit-animation: tracking-in-expand 3s cubic-bezier(0.215, 0.610, 0.355, 1.000) 1s infinite both;
+	        animation: tracking-in-expand 3s cubic-bezier(0.215, 0.610, 0.355, 1.000) 1s infinite both;
+}
+
+ @-webkit-keyframes tracking-in-expand {
+    0% {
+      letter-spacing: -0.5em;
+      opacity: 0;
+    }
+    40% {
+      opacity: 0.6;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  @keyframes tracking-in-expand {
+    0% {
+      letter-spacing: -0.5em;
+      opacity: 0;
+    }
+    40% {
+      opacity: 0.6;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+
+
